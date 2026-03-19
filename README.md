@@ -1,6 +1,10 @@
 # ImGui iOS Metal Blur Integration Guide
 ========================================
 
+
+![IMG_3DA728872478-1](https://github.com/user-attachments/assets/8e708707-f7c2-40e7-9b4e-5128116bdd9e)
+
+
 This package provides a high-performance "Glassmorphism" (blurred background) effect for ImGui windows on iOS using Metal.
 
 ## Files included:
