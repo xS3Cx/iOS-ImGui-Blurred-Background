@@ -8,7 +8,7 @@ This guide demonstrates how to achieve a high-performance, 0-CPU-cost "Glassmorp
 ![IMG_3DA728872478-1](https://github.com/user-attachments/assets/8e708707-f7c2-40e7-9b4e-5128116bdd9e)
 
 
-This package provides a high-performance "Glassmorphism" (blurred background) effect for ImGui windows on iOS using Metal.
+This package provides a high-performance "Glassmorphism" (blurred background) effect for ImGui windows on iOS using native `UIVisualEffectView`.
 
 
 By utilizing the native UIKit compositor, this approach provides superior performance with zero CPU overhead, and completely avoids complex hooks into ImGui's core rendering pipeline.
